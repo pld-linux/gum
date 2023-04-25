@@ -4,7 +4,7 @@
 Summary:	A tool for glamorous shell scripts
 Name:		gum
 Version:	0.10.0
-Release:	0.1
+Release:	1
 License:	MIT
 Group:		Applications
 Source0:	https://github.com/charmbracelet/gum/archive/v%{version}/%{name}-%{version}.tar.gz
